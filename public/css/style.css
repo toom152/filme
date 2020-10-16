@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+header {
+    height: 20vh;
+    background: url(../image/background.jpg) center;
+}
+.navbar-start  {
+    background-color: rgba(0,0,0,0.5);
+}
+.navbar-item {
+    background-color: #efefef;
+}
